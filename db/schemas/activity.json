@@ -1,0 +1,28 @@
+{
+    "$jsonSchema": {
+        "bsonType": "object",
+        "required": [
+            "userId",
+            "featureId",
+            "timestamp",
+            "activityType"
+        ],
+        "properties": {
+            "userId": {
+                "bsonType": "string"
+            },
+            "featureId": {
+                "bsonType": "string"
+            },
+            "timestamp": {
+                "bsonType": "date"
+            },
+            "activityType": {
+                "bsonType": "string"
+            },
+            "additionalNotes": {
+                "bsonType": "string"
+            }
+        }
+    }
+}

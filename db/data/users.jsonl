@@ -1,0 +1,20 @@
+[
+    {
+        "userId": "1",
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "registrationDate": "2022-01-01T00:00:00Z"
+    },
+    {
+        "userId": "2",
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "registrationDate": "2022-01-02T00:00:00Z"
+    },
+    {
+        "userId": "3",
+        "name": "Bob Johnson",
+        "email": "bobjohnson@example.com",
+        "registrationDate": "2022-01-03T00:00:00Z"
+    }
+]

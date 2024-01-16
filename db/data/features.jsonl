@@ -1,0 +1,19 @@
+[
+    {
+        "featureId": "f1",
+        "name": "Feature 1",
+        "description": "This is feature 1",
+        "launchDate": "2022-01-01T00:00:00Z"
+    },
+    {
+        "featureId": "f2",
+        "name": "Feature 2",
+        "description": "This is feature 2",
+        "launchDate": "2022-02-01T00:00:00Z"
+    },
+    {
+        "featureId": "f3",
+        "name": "Feature 3",
+        "description": "This is feature 3"
+    }
+]

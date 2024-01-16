@@ -1,0 +1,23 @@
+{
+    "$jsonSchema": {
+        "bsonType": "object",
+        "required": [
+            "featureId",
+            "name"
+        ],
+        "properties": {
+            "featureId": {
+                "bsonType": "string"
+            },
+            "name": {
+                "bsonType": "string"
+            },
+            "description": {
+                "bsonType": "string"
+            },
+            "launchDate": {
+                "bsonType": "date"
+            }
+        }
+    }
+}
